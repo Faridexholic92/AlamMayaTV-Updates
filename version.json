@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "2.2.0",
-  "title": "Kemas Kini AlamMayaTV v2.2.0",
-  "changelog": "• Penambahan 10 saluran sukan & hiburan HD baharu\n• Sistem OTA In-App Updater bersepadu\n• Jadual Siaran Langsung (EPG) masa nyata\n• Mod Picture-in-Picture (PiP)\n• Sokongan 15 Stesen Radio FM Malaysia\n• Peningkatan kelajuan zapping saluran pantas",
-  "apkUrl": "https://github.com/Faridexholic92/AlamMayaTV-Updates/releases/download/v2.2.0/AlamMayaTV-2.2.0.apk",
-  "tvApkUrl": "https://github.com/Faridexholic92/AlamMayaTV-Updates/releases/download/v2.2.0/AlamMayaTV-AndroidTV.apk",
+  "versionCode": 7,
+  "versionName": "2.3.0",
+  "title": "AlamMayaTV v2.3.0 Update",
+  "changelog": "• Complete English localization across all interfaces\n• Added Subtitles / Closed Captions (CC) selection button\n• Creator info & direct contact link at faridtasim.dpdns.org\n• Enhanced stream buffering and audio track selection\n• Auto Frame-Rate (AFR) & Picture-in-Picture stability",
+  "apkUrl": "https://github.com/Faridexholic92/AlamMayaTV-Updates/releases/download/v2.3.0/AlamMayaTV-2.3.0.apk",
+  "tvApkUrl": "https://github.com/Faridexholic92/AlamMayaTV-Updates/releases/download/v2.3.0/AlamMayaTV-AndroidTV.apk",
   "forceUpdate": false
 }
